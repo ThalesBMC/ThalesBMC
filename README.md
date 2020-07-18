@@ -1,5 +1,5 @@
 ### Hello my friend👋
-My name is ### `Thales Brederodes` and I`m a web developer.
+My name is `Thales Brederodes` and I`m a web developer.
 
 Studying Information Systems at UFPE.
 
