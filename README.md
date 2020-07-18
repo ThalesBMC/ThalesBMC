@@ -5,7 +5,7 @@ Studying Information Systems at UFPE.
 
 -Advanced English✔️      
 
--Advanced React.js ✔️
+### `Advanced React.js ✔️`
 
 -Sass✔️
 
@@ -17,7 +17,7 @@ Studying Information Systems at UFPE.
 
 Linkedin:https://www.linkedin.com/in/thales-brederodes-3a34721a9/
 
-Email:thalesbmc@gmail.com
+### `Email : thalesbmc@gmail.com`
 
 
 <!--
