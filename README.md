@@ -15,8 +15,7 @@ Studying Information Systems at UFPE.
 
 📫 You can reach me:
 
-Linkedin:https://www.linkedin.com/in/thales-brederodes-3a34721a9/
-
+Linkedin: https://www.linkedin.com/in/thalesbmc/
 ### `Email : thalesbmc@gmail.com`
 
 
