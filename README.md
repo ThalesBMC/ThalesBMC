@@ -13,6 +13,11 @@ Studying Information Systems at UFPE.
 
 -PostgreSQL ✔️
 
+### `Advanced Python` ✔️
+
+-Ethical Hacking✔️
+
+-Basics of Data Science(Pandas,Numpy,Matplotlib) ✔️
 📫 You can reach me:
 
 Linkedin: https://www.linkedin.com/in/thalesbmc/
