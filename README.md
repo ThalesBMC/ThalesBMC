@@ -7,11 +7,15 @@ Studying Information Systems at UFPE.
 
 ### `Advanced React.js ✔️`
 
+### `React Native✔️`
+
+`Firebase`✔️
+
 -Sass✔️
 
 -Node.js✔️
 
--PostgreSQL ✔️
+
 
 ### `Advanced Python` ✔️
 
