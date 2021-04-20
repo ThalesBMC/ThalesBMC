@@ -52,8 +52,6 @@ Studying Information Systems at UFPE.
       </a>
       <br>Sass
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./git.svg" width="48" height="48" alt="Git" />
@@ -66,6 +64,7 @@ Studying Information Systems at UFPE.
       </a>
       <br>Next.js
     </td>
+    </br>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
@@ -85,6 +84,7 @@ Studying Information Systems at UFPE.
       <br>Python
     </td>
   </tr>
+  
 </table>
 
 📫 You can reach me:
