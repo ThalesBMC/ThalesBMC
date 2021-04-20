@@ -101,12 +101,12 @@ Studying Information Systems at UFPE.
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+  <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=algolia"></a><a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/ThalesBMC/React-Native-PomodoroAPP" title="Pomodoro with React Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
-  <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
+  <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=blueberry"></a>
 </p>
 <br><br>
 <br><br><br><br><br><br><br>
