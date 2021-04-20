@@ -89,6 +89,14 @@ Studying Information Systems at UFPE.
       <br>Sass
     </td>
   </tr>
+  <tr>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./Git-logo.svg.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>   
+  </tr>
 </table>
 
 📫 You can reach me:
