@@ -95,11 +95,6 @@ Studying Information Systems at UFPE.
 
 <img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical&no-frame=true&title=Commit,Repositories" />
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/thalesbmc/count.svg" />
-</p>
-
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
@@ -115,4 +110,9 @@ Studying Information Systems at UFPE.
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/thalesbmc/count.svg" />
+</p>
 
