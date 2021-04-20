@@ -106,7 +106,7 @@ Studying Information Systems at UFPE.
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/ThalesBMC/React-Native-PomodoroAPP" title="Pomodoro with React Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=React-Native-PomodoroAPP&theme=gotham"></a>
-  <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=/FocoSaudavel&theme=blueberry"></a>
+  <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=blueberry"></a>
 </p>
 <br><br>
 <br><br><br><br><br><br><br>
