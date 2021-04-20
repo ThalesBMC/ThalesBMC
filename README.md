@@ -35,6 +35,7 @@ Studying Information Systems at UFPE.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=80&style=for-the-badge" />
 </a>
 
+
  <a href="mailto:thalesbmc@gmail.com" alt="Gmail" target="_blank">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=80&style=for-the-badge" />
 </a>
