@@ -119,13 +119,6 @@ Studying Information Systems at UFPE.
  </a>
 
 
-### Hi there 👋, My name is Thales
-#### I'm a web developer
-![I'm a web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-Student of Information Systems at UFPE
-
-- 🔭 I’m currently working on this page. 
 
 
 
