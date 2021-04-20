@@ -115,10 +115,7 @@ Studying Information Systems at UFPE.
 </h4>
 <br>
 <br>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/thalesbmc/count.svg" />
-</p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
+ <a href="https://github.com/MacroPower/ThalesBMC">
+    <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
+ </a>
