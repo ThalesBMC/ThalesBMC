@@ -46,7 +46,7 @@ Studying Information Systems at UFPE.
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide=title&hide=border&hide=issues&show_icons=true&theme=radical"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide=issues&show_icons=true&theme=radical"/>
 
 "https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_title=true&hide_border=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight" />
 
