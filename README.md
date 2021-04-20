@@ -89,8 +89,6 @@ Studying Information Systems at UFPE.
       <br>Sass
     </td>
   </tr>
-  <tr>
-  </tr>
 </table>
 
 📫 You can reach me:
