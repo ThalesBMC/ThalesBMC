@@ -7,7 +7,7 @@ Studying Information Systems at UFPE.
 
 ![ADVANCED REACTJS](https://img.shields.io/badge/-ReactJS-black?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge) ✔️  
 
-![Native](https://img.shields.io/badge/-REACT NATIVE-black?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge) ✔️  
+![Native](https://img.shields.io/badge/-REACT%20NATIVE-black?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge) ✔️  
 
 
 ![Firebase](https://img.shields.io/badge/-FIREBASE-FFF?logo=firebase&logoColor=FFCA28&logoWidth=50&style=for-the-badge) ✔️  
