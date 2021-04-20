@@ -3,7 +3,7 @@ My name is `Thales Brederodes` and I'm a web developer.
 
 Studying Information Systems at UFPE.
 
--Advanced English✔️      
+    
 
 ![ADVANCED REACTJS](https://img.shields.io/badge/-ReactJS-black?logo=react&logoColor=61DAFB&style=flat)&nbsp;
 
@@ -26,7 +26,7 @@ Studying Information Systems at UFPE.
 
 ![Python](https://img.shields.io/badge/-Python-FFF?logo=python&logoColor=3776AB&style=flat)&nbsp;
 
-
+![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&style=flat)&nbsp✔️  
 
 
 
