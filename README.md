@@ -3,9 +3,6 @@
 <img height="350px" width="1000px" src="./header.png"/>
 
 
-
-Studying Information Systems at UFPE.
-
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
