@@ -58,11 +58,17 @@ Studying Information Systems at UFPE.
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
       </a>
-      <br>Python
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -75,12 +81,6 @@ Studying Information Systems at UFPE.
         <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -98,9 +98,21 @@ Studying Information Systems at UFPE.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Sass" />
+        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
   </tr>
 </table>
