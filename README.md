@@ -10,22 +10,6 @@ Studying Information Systems at UFPE.
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
 
 
-
-📫 You can reach me:
-
-<a href="https://www.linkedin.com/in/thalesbmc/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=80" />
-</a>
-
-<br/>
-
- <a href="mailto:thalesbmc@gmail.com" alt="Gmail" target="_blank">
-   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=80" />
-</a>
-
-
-
-
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide=issues&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 
 
