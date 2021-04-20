@@ -1,6 +1,6 @@
 ### Hello my friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img height="250px" src="./header.png"/>
+<img height="250px" width="300px" src="./header.png"/>
 
 
 
