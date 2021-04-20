@@ -5,7 +5,7 @@ Studying Information Systems at UFPE.
 
 -Advanced English✔️      
 
-![ADVANCED REACTJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&style=flat)&nbsp;
+![ADVANCED REACTJS](https://img.shields.io/badge/-ReactJS-black?logo=react&logoColor=61DAFB&style=flat)&nbsp;
 
 ![Native](https://img.shields.io/badge/-Native-black?logo=react&logoColor=61DAFB&style=flat)&nbsp;
 
