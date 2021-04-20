@@ -24,7 +24,7 @@ Studying Information Systems at UFPE.
 
 ![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white&style=flat)&nbsp;
 
-![Python] (https://img.shields.io/badge/-Python-FFF?logo=python&logoColor=3776AB&style=flat)&nbsp;
+![Python](https://img.shields.io/badge/-Python-FFF?logo=python&logoColor=3776AB&style=flat)&nbsp;
 
 
 
