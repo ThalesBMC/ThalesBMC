@@ -41,7 +41,7 @@ Studying Information Systems at UFPE.
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=80" />
 </a>
 
-![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesbmc&show_icons=true&theme=radical)
+
 <!--
 **ThalesBMC/ThalesBMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
