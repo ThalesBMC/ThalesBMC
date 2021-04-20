@@ -92,9 +92,9 @@ Studying Information Systems at UFPE.
   <tr>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./Git-logo.svg.png" width="48" height="48" alt="Sass" />
+        <img src="./git.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Sass
+      <br>Git
     </td>   
   </tr>
 </table>
