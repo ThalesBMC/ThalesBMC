@@ -54,7 +54,6 @@ Studying Information Systems at UFPE.
  
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical" />
+
 
