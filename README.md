@@ -114,8 +114,9 @@ Studying Information Systems at UFPE.
   <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <br>
-<br>
-
- <a href="https://github.com/MacroPower/ThalesBMC">
+<a href="https://github.com/MacroPower/ThalesBMC">
     <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
- </a>
+</a>
+
+
+
