@@ -1,4 +1,4 @@
-### Hello my friend
+### Hello my friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is `Thales Brederodes` and I'm a web developer.
 
 Studying Information Systems at UFPE.
