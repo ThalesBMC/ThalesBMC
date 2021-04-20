@@ -95,7 +95,13 @@ Studying Information Systems at UFPE.
         <img src="./git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
-    </td>   
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./nextjs.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Next.js
+    </td>
   </tr>
 </table>
 
