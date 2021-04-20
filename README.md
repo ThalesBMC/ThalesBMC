@@ -110,6 +110,12 @@ Studying Information Systems at UFPE.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+      </a>
+      <br>Styled-components
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="./python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
