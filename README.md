@@ -23,7 +23,7 @@ Studying Information Systems at UFPE.
 
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
 
-![Python](https://img.shields.io/badge/-Python-FFF?logo=python&logoColor=3776AB&logoWidth=50&style=for-the-badge) ✔️  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
 
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
 
@@ -32,11 +32,11 @@ Studying Information Systems at UFPE.
 📫 You can reach me:
 
 <a href="https://www.linkedin.com/in/thalesbmc/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=50&style=for-the-badge" />
 </a>
 
  <a href="mailto:thalesbmc@gmail.com" alt="Gmail" target="_blank">
-   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge" />
+   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=50&style=for-the-badge" />
 </a>
 
 
