@@ -46,9 +46,8 @@ Studying Information Systems at UFPE.
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide=issues&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide=issues&hide_border=true&hide_title=true&include_all_commits=false&count_private=true&show_icons=true&theme=radical"/>
 
-"https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_title=true&hide_border=true&hide=issues&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight" />
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
