@@ -7,26 +7,6 @@
 Studying Information Systems at UFPE.
 
 
-![ADVANCED REACTJS](https://img.shields.io/badge/-Advanced%20ReactJS-61DAFB?logo=react&logoColor=black&logoWidth=50&style=for-the-badge) ✔️  
-
-![Native](https://img.shields.io/badge/-REACT%20NATIVE-61DAFB?logo=react&logoColor=black&logoWidth=50&style=for-the-badge) ✔️  
-
-
-![Firebase](https://img.shields.io/badge/-FIREBASE-FFF?logo=firebase&logoColor=FFCA28&logoWidth=50&style=for-the-badge) ✔️  
-
-
-![NEXT.JS](https://img.shields.io/badge/-Next.JS-000000?logo=next.js&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
-
-![TYPSCRIPT](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
-
-![GIT](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
-
-![STYLED-COMPONENTS](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
-
-![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&logoWidth=50&style=for-the-badge) ✔️  
-
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
 
 
