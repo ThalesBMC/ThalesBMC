@@ -98,3 +98,7 @@ Studying Information Systems at UFPE.
 </br>
 <a href="mailto:thalesbmc@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a>
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/thalesbmc/count.svg" />
+</p>
