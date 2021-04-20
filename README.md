@@ -18,15 +18,15 @@
     </td>
     <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech">
         <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
+    </td>
+    <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
     </td>
     <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
