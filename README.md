@@ -75,7 +75,9 @@ Studying Information Systems at UFPE.
   
 </table>
 </br>
+
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
+
 </br>
 📫 You can reach me:
 </br>
