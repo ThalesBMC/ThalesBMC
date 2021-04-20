@@ -106,11 +106,12 @@ Studying Information Systems at UFPE.
   <a align="right" href="https://github.com/ThalesBMC/FocoSaudavel" title="Pomodoro with react.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
 </p>
 <br><br>
-<br><br><br>
+<br><br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+<br>
+<br>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/thalesbmc/count.svg" />
