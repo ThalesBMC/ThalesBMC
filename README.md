@@ -72,7 +72,12 @@
 </table>
 </br>
 
+Casino roulette Project
+<img height="350px" width="1000px" src="./casino.gif"/>
+
+
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
+
 
 </br>
 📫 You can reach me:
