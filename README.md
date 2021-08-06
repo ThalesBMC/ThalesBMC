@@ -72,13 +72,14 @@
 </table>
 </br>
 
+<table align= "center">
 <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img height="250px" width="200px" src="./casino.gif"/>
       </a>
        <br>Casino roulette Project   
 </td>
-
+</table>
 <br>
 <br>
 
