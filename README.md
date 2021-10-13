@@ -87,6 +87,7 @@
 
 </br>
 
+<p align="center">
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) 
 
 📫 You can reach me:
@@ -98,7 +99,7 @@
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical&no-frame=true&title=Commit,Repositories" />
-
+</p>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
