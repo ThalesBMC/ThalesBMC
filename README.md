@@ -96,14 +96,11 @@
 <a href="mailto:thalesbmc@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="80"></a>
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-
-
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-  
+
 
 
 <h2 align="center">Repositories</h2>
