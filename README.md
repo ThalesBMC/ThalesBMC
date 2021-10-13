@@ -87,7 +87,7 @@
 
 </br>
 
-<p align="center">
+<p width="100%" align="center">
   </br>
   ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) 
 
