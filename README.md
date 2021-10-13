@@ -84,8 +84,11 @@
 </table>
 <br>
 <br>
-![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
+
 </br>
+
+![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️
+
 📫 You can reach me:
 </br>
 <a href="https://www.linkedin.com/in/thalesbmc/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
