@@ -62,9 +62,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./nodejs-2.svg" width="48" height="48" alt="Node.js" />
       </a>
-      <br>Python
+      <br>Node.js
     </td>
    </tr>
   </tr>
