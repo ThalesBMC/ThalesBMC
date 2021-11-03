@@ -72,7 +72,7 @@
 </table>
 </br>
 
-<table align= "center">
+<!-- <table align= "center">
 <td align="center"  width="240" height="112.43">
       <a href="#macropower-tech">
         <img height="250px" width="200px" src="./casino.gif"/>
@@ -82,6 +82,7 @@
 </td>
   
 </table>
+-->
 <br>
 <br>
 
