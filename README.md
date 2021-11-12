@@ -106,7 +106,7 @@
 <br>
 
 </br>
-<p aling="center">
+<p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=thalesbmc&column=7&theme=radical&no-frame=true&title=Commit,Repositories" />
  </p>
 <p align="center">
