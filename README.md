@@ -72,9 +72,7 @@
 </table>
 </br>
 <p align="center">
- 
     <img alt="Solana" src="https://i.imgur.com/IKyzQ6T.png" width="250" />
- 
 </p>
 <!-- <table align= "center">
 <td align="center"  width="240" height="112.43">
