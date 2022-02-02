@@ -72,7 +72,7 @@
 </table>
 </br>
 <p align="center">
-    <img alt="Near" src="/near.png" width="250" />
+    <img alt="Near" src="./near-protocol-near-logo.png" width="250" />
 </p>
 <p align="center">
     <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="200" />
