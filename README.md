@@ -129,13 +129,15 @@
 
 <p width="100%" align="center">
    <a align="right" href="https://github.com/ThalesBMC/NFTMarketplace" title="NFT Marketplace"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
-  <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
+
+  <a align="left" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFT-Minter&theme=nightowl"></a>
  
 </p>
 <br><br>
 <p width="100%" align="center">
   <a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
   <a align="left" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFT-Minter&theme=nightowl"></a>
+    <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
 </p>
 <br><br>
 <br><br><br><br><br><br><br>
