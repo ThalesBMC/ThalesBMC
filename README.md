@@ -135,7 +135,7 @@
 <br><br>
 <p width="100%" align="center">
   <a align="right" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
-  <a align="left" href="https://github.com/ThalesBMC/FocoSaudavel" title="NFT validator minter with Next.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=nightowl"></a>
+  <a align="left" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=FocoSaudavel&theme=nightowl"></a>
 </p>
 <br><br>
 <br><br><br><br><br><br><br>
