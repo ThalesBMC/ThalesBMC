@@ -140,7 +140,9 @@
 </p>
 <br><br>
 <br><br><br><br><br><br><br>
-4>
+<h4 align="center" marginTop="40px">
+  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h
 
  <a href="https://github.com/MacroPower/ThalesBMC">
     <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
