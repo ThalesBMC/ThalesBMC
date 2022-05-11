@@ -134,13 +134,13 @@
    <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
  
 </div>
-<br/>
+<br/><br/>
 <div width="100%" align="center">
        <a align="left" href="https://github.com/ThalesBMC/Food-App-with-RN" title="Delivery App"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=Food-App-with-RN&theme=nightowl"></a>
   <a align="right" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFT-Minter&theme=nightowl"></a>
 
 </div>
-<br/>
+<br/><br/>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center" marginTop="40px">
   <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
