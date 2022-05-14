@@ -73,7 +73,7 @@
 </br>
 
 <p align="center">
-    <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="200" />
+    <img alt="Ethereum" src="https://giphy.com/embed/L59aKIC2MFyfUfrz3n" width="200" />
 </p>
 
 <!-- <table align= "center">
