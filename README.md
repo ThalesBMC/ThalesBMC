@@ -73,7 +73,7 @@
 </br>
 
 <p align="center">
-    <img alt="Ethereum" src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-animated.gif?v=022" width="200" />
+    <img alt="Ethereum" src="./ethereum.gif" width="200" />
 </p>
 
 <!-- <table align= "center">
