@@ -1,6 +1,6 @@
 
 
-<img height="350px" width="1000px" src="./galaxy.gif"/>
+
 
 <table align= "center">
   <tr>
