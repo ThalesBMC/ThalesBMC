@@ -72,9 +72,7 @@
 </table>
 </br>
 
-<p align="center">
-    <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="200" />
-</p>
+
 
 <!-- <table align= "center">
 <td align="center"  width="240" height="112.43">
@@ -87,10 +85,7 @@
   
 </table>
 -->
-<br>
-<br>
 
-</br>
 
 
 
@@ -107,6 +102,13 @@
 
 </td>
 </table>
+<br>
+
+</br>
+<p align="center">
+    <img alt="Ethereum" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="200" />
+</p>
+<br>
 <br>
 
 </br>
