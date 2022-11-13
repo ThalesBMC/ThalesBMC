@@ -130,13 +130,13 @@
 <div width="100%" align="center">
    <a align="right" href="https://github.com/ThalesBMC/NFTMarketplace" title="NFT Marketplace"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
 
+   <a align="left" href="https://github.com/ThalesBMC/web3-youtube" title="Decentralized Youtube"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=web3-youtube&theme=nightowl"></a>
 
-   <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
  
 </div>
 <br/><br/>
 <div width="100%" align="center">
-       <a align="left" href="https://github.com/ThalesBMC/web3-youtube" title="Decentralized Youtube"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=web3-youtube&theme=nightowl"></a>
+       <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
   <a align="right" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFT-Minter&theme=nightowl"></a>
 
 </div>
