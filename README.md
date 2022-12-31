@@ -137,7 +137,7 @@
 <br/><br/>
 <div width="100%" align="center">
        <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
-  <a align="right" href="https://github.com/ThalesBMC/NFT-Minter" title="NFT validator minter with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFT-Minter&theme=nightowl"></a>
+  <a align="right" href="https://github.com/ThalesBMC/coin-widget" title="Coin Widget with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=coin-widget&theme=nightowl"></a>
 
 </div>
 <br/><br/>
