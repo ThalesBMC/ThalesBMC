@@ -37,9 +37,9 @@
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./git.svg" width="48" height="48" alt="Git" />
+        <img src="./grahpql.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br>GraphQL
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
