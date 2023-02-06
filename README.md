@@ -67,6 +67,39 @@
       <br>Tailwind
     </td>
    </tr>
+     <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./grahpql.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    </br>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+      </a>
+      <br>Styled-components
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./tailwind.svg" width="65" height="50" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+   </tr>
   </tr>
   
 </table>
