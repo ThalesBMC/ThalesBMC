@@ -37,7 +37,7 @@
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./grahpql.svg" width="48" height="48" alt="GraphQL" />
+        <img src="./graphql.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
@@ -70,34 +70,34 @@
      <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./grahpql.svg" width="48" height="48" alt="GraphQL" />
+        <img src="./chakra.svg" width="48" height="48" alt="Chakra UI" />
       </a>
-      <br>GraphQL
+      <br>Chakra UI
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+        <img src="./redux.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Next.js
+      <br>Redux
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+        <img src="./react-original.svg" width="48" height="48" alt="Context API" />
       </a>
-      <br>Firebase
+      <br>Context API
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+        <img src="./web3.svg" width="48" height="48" alt="web3.js" />
       </a>
-      <br>Styled-components
+      <br>Web3.js
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./tailwind.svg" width="65" height="50" alt="Tailwind" />
+        <img src="./ethers.svg" width="65" height="50" alt="ethers" />
       </a>
-      <br>Tailwind
+      <br>Ethers.js
     </td>
    </tr>
   </tr>
