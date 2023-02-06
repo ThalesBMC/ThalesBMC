@@ -37,7 +37,7 @@
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./grahpql.svg" width="48" height="48" alt="Git" />
+        <img src="./grahpql.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
     </td>
@@ -62,9 +62,9 @@
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./nodejs-ar21.svg" width="65" height="50" alt="Node.js" />
+        <img src="./tailwind.svg" width="65" height="50" alt="Tailwind" />
       </a>
-      <br>Node.js
+      <br>Tailwind
     </td>
    </tr>
   </tr>
