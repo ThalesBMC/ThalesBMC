@@ -167,7 +167,7 @@
 <br/><br/>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center" marginTop="70px">
-  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">🔎 Show More</a>
+  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">Show More 🔎</a>
  </h4>
 
  <a href="https://github.com/MacroPower/ThalesBMC" marginTop="40px">
