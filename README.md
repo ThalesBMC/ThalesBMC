@@ -149,33 +149,5 @@
 
 
 
-<h2 align="center">Repositories</h2>
-
-<div width="100%" align="center">
-   <a align="right" href="https://github.com/ThalesBMC/NFTMarketplace" title="NFT Marketplace"><img align="left"  height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=NFTMarketplace&theme=nightowl"></a>
-
-   <a align="left" href="https://github.com/ThalesBMC/web3-youtube" title="Decentralized Youtube"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=web3-youtube&theme=nightowl"></a>
-
- 
-</div>
-<br/><br/>
-<div width="100%" align="center">
-       <a align="left" href="https://github.com/ThalesBMC/TylesClothing" title="Clothing store"><img align="right" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=TylesClothing&theme=nightowl"></a>
-  <a align="right" href="https://github.com/ThalesBMC/coin-widget" title="Coin Widget with Next.js"><img align="left" height="115px" src="https://github-readme-stats.vercel.app/api/pin/?username=thalesbmc&repo=coin-widget&theme=nightowl"></a>
-
-</div>
-<br/><br/>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center" marginTop="70px">
-  <a href="https://github.com/ThalesBMC?tab=repositories" title="Show Repositories">Show More 🔎</a>
- </h4>
-
- <a href="https://github.com/MacroPower/ThalesBMC" marginTop="40px">
-    <img src="https://komarev.com/ghpvc/?username=thalesbmc" alt="page views" />
- </a>
-
-
-
-
 
 
