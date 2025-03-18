@@ -1,4 +1,7 @@
+Hey there, I'm Thales Brederodes 👋
 
+
+I'm a frontend developer specializing in web and mobile apps, especially within the Web3 and crypto space. My expertise includes building secure, scalable applications that handle thousands of dollars in transactions daily.
 
 
 
