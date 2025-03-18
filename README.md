@@ -1,8 +1,8 @@
+# Frontend Developer | Web3 & Crypto Specialist
+
 Hey there 👋
 
-
-I'm a frontend developer specializing in web and mobile apps, especially within the Web3 and crypto space. My expertise includes building secure, scalable applications that handle thousands of dollars in transactions daily.
-
+I'm a frontend developer with a focus on web and mobile applications, particularly in the Web3 and crypto sectors. I specialize in creating secure, scalable solutions capable of handling high-value transactions daily. With a passion for building seamless user experiences, I am dedicated to developing cutting-edge technologies in the rapidly evolving blockchain space.
 
 
 <table align= "center">
