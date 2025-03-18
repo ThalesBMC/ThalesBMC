@@ -1,4 +1,4 @@
-# Frontend Developer | Web3 & Crypto Specialist
+# Frontend Developer | Web3
 
 Hey there 👋
 
