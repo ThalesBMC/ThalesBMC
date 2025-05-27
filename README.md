@@ -72,9 +72,9 @@ I'm a frontend developer specializing in web and mobile apps, especially within 
      <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./chakra.svg" width="48" height="48" alt="Chakra UI" />
+        <img src="./expo.svg" width="48" height="48" alt="Expo" />
       </a>
-      <br>Chakra UI
+      <br>Expo
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
