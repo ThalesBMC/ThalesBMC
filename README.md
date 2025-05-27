@@ -91,7 +91,7 @@ I'm a frontend developer specializing in web and mobile apps, especially within 
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./wagmi.svg" width="48" height="48" alt="wagmi.svg" />
+        <img src="./wagmi_light.svg" width="48" height="48" alt="wagmi.svg" />
       </a>
       <br>Wagmi
     </td>
