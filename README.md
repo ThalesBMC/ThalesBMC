@@ -1,4 +1,4 @@
-# Frontend Developer | Web3
+# Frontend Developer
 
 Hey there 👋
 
