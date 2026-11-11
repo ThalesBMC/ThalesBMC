@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="70" viewBox="0 0 220 70">
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="70" viewBox="0 0 136 70">
   <style>
     :root { --card:#f5f5f7; --line:rgba(0,0,0,.06); --link:#0066cc; }
     @media (prefers-color-scheme: dark) {
@@ -9,8 +9,8 @@
     @keyframes fade { to { opacity:1; } }
   </style>
   <g class="f">
-    <path d="M1,0 V41 A28,28 0 0 0 29,69 H220 V0 Z" fill="var(--card)"/>
-    <path d="M1,0 V41 A28,28 0 0 0 29,69 H220" fill="none" stroke="var(--line)"/>
+    <path d="M1,0 V41 A28,28 0 0 0 29,69 H136 V0 Z" fill="var(--card)"/>
+    <path d="M1,0 V41 A28,28 0 0 0 29,69 H136" fill="none" stroke="var(--line)"/>
     <text x="36" y="37" font-size="18" font-weight="500" fill="var(--link)">Web app ›</text>
   </g>
 </svg>
