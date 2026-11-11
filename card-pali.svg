@@ -6,9 +6,9 @@
     <clipPath id="c"><path d="M1,200 V29 A28,28 0 0 1 29,1 H411 A28,28 0 0 1 439,29 V200 Z"/></clipPath>
   </defs>
   <style>
-    :root { --fg:#1d1d1f; --sub:#6e6e73; --card:#f5f5f7; --line:rgba(0,0,0,.06); --link:#0066cc; }
+    :root { --fg:#1d1d1f; --sub:#6e6e73; --card:#f5f5f7; --line:rgba(0,0,0,.06); --link:#0066cc; --gap:#ffffff; }
     @media (prefers-color-scheme: dark) {
-      :root { --fg:#f5f5f7; --sub:#a1a1a6; --card:#1c1c1e; --line:rgba(255,255,255,.08); --link:#2997ff; }
+      :root { --fg:#f5f5f7; --sub:#a1a1a6; --card:#1c1c1e; --line:rgba(255,255,255,.08); --link:#2997ff; --gap:#0d1117; }
     }
     text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif; }
     .f { opacity:0; animation: fade .9s ease .25s forwards; }
@@ -18,6 +18,7 @@
     <path d="M1,200 V29 A28,28 0 0 1 29,1 H411 A28,28 0 0 1 439,29 V200 Z" fill="var(--card)"/>
     <rect x="1" y="1" width="438" height="268" fill="url(#glow)" clip-path="url(#c)"><animate attributeName="opacity" values="1;0.6;1" dur="5s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/></rect>
     <path d="M1,200 V29 A28,28 0 0 1 29,1 H411 A28,28 0 0 1 439,29 V200" fill="none" stroke="var(--line)"/>
+    <rect x="1" y="199.25" width="438" height="0.75" fill="var(--gap)"/>
     <text x="36" y="62" font-size="13" font-weight="600" letter-spacing="1.2" fill="#7c5cff">OPEN SOURCE</text>
     <text x="36" y="104" font-size="30" font-weight="700" letter-spacing="-.8" fill="var(--fg)">Pali Wallet Mobile.</text>
     <text x="36" y="150" font-size="18" fill="var(--sub)">Self-custody crypto wallet in</text><text x="36" y="176" font-size="18" fill="var(--sub)">React Native. 10,000 downloads.</text>

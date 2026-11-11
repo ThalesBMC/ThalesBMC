@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Thales Brederodes. Product engineer for crypto and trading." src="./banner.svg" width="100%">
+  <img alt="Thales Brederodes. Product engineer for crypto and fintech." src="./banner.svg" width="100%">
 </p>
 
 <p align="center">
