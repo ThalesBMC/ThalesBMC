@@ -20,6 +20,6 @@
     <text x="36" y="62" font-size="13" font-weight="600" letter-spacing="1.2" fill="#0071e3">NOW · BITVAVO</text>
     <text x="36" y="104" font-size="30" font-weight="700" letter-spacing="-.8" fill="var(--fg)">Crypto trading.</text>
     <text x="36" y="150" font-size="18" fill="var(--sub)">Margin, swaps and order flows in the</text><text x="36" y="176" font-size="18" fill="var(--sub)">mobile app. €2B traded a month.</text>
-    <text x="36" y="232" font-size="18" font-weight="500" fill="var(--link)">Get the app ›</text>
+    <text x="36" y="232" font-size="18" font-weight="500" fill="var(--link)">View on the App Store ›</text>
   </g>
 </svg>

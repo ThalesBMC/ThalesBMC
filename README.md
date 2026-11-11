@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/nl/app/bitvavo-buy-bitcoin-btc/id1483903423?l=en-GB"><img alt="Bitvavo: crypto trading in the mobile app. €2B traded a month." src="./bitvavo.svg" width="49%"></a>
+  <a href="https://apps.apple.com/nl/app/bitvavo-buy-bitcoin-btc/id1483903423?l=en-GB"><img alt="Bitvavo: crypto trading in the mobile app. €2B traded a month." src="./bitvavo-app.svg" width="49%"></a>
   <a href="https://github.com/ThalesBMC/pali-mobile"><img alt="Pali Wallet Mobile: open-source crypto wallet" src="./pali.svg" width="49%"></a>
 </p>
 <p align="center">
