@@ -17,7 +17,7 @@
   </style>
   <g class="a" style="animation-delay:0.25s">
     <rect x="1" y="1" width="438" height="268" rx="28" fill="var(--card)" stroke="var(--line)"/>
-    <rect x="1" y="1" width="438" height="268" fill="url(#glow)" clip-path="url(#c)"><animate attributeName="opacity" values="0;1;0" dur="3.5s" begin="1.15s" repeatCount="indefinite"/></rect>
+    <rect x="1" y="1" width="438" height="268" fill="url(#glow)" clip-path="url(#c)"><animate attributeName="opacity" values="0.15;1;0.15" dur="5s" begin="1.15s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></rect>
     <text x="36" y="62" font-size="13" font-weight="600" letter-spacing="1.2" fill="#7c5cff">OPEN SOURCE</text>
     <text x="36" y="104" font-size="30" font-weight="700" letter-spacing="-.8" fill="var(--fg)">Pali Wallet Mobile.</text>
     <text x="36" y="150" font-size="18" fill="var(--sub)">Self-custody crypto wallet in</text><text x="36" y="176" font-size="18" fill="var(--sub)">React Native. 10,000 downloads.</text>
