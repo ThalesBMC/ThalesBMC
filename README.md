@@ -19,12 +19,16 @@
 </p>
 
 <p align="center">
-  <a href="https://account.bitvavo.com/markets/BTC-EUR"><img alt="Bitvavo: crypto trading on mobile and web" src="./card-bitvavo.svg" width="49%"></a>
+  <img alt="Bitvavo: crypto trading on mobile and web" src="./card-bitvavo.svg" width="49%">
   <a href="https://github.com/ThalesBMC/pali-mobile"><img alt="Pali Wallet Mobile: open-source crypto wallet" src="./card-pali.svg" width="49%"></a>
 </p>
 <p align="center">
+  <sub>Bitvavo: <a href="https://account.bitvavo.com/markets/BTC-EUR">Web app ›</a> &nbsp;·&nbsp; <a href="https://apps.apple.com/nl/app/bitvavo-buy-bitcoin-btc/id1483903423?l=en-GB">App Store ›</a></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://devpost.com/software/fluxus"><img alt="Fluxus Finance: NEAR-native yield optimizer" src="./card-fluxus.svg" width="49%"></a>
-  <a href="https://viberadio.live"><img alt="Vibe Radio: live radio on a 3D globe" src="./card-vibe.svg" width="49%"></a>
+  <a href="https://vibe-radio-drab.vercel.app"><img alt="Vibe Radio: live radio on a 3D globe" src="./card-vibe.svg" width="49%"></a>
 </p>
 
 <br>
