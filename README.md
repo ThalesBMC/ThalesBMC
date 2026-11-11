@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-<a href="https://account.bitvavo.com/markets/BTC-EUR"><img align="top" alt="Bitvavo: crypto trading on mobile and web. €2B traded a month." src="./card-bitvavo.svg" width="49%"></a> <a href="https://github.com/ThalesBMC/pali-mobile"><img align="top" alt="Pali Wallet Mobile: open-source crypto wallet" src="./card-pali.svg" width="49%"></a><br><a href="https://account.bitvavo.com/markets/BTC-EUR"><img align="top" alt="Bitvavo web app" src="./bitvavo-link-web.svg" width="15.15%"></a><a href="https://apps.apple.com/nl/app/bitvavo-buy-bitcoin-btc/id1483903423?l=en-GB"><img align="top" alt="Bitvavo on the App Store" src="./bitvavo-link-appstore.svg" width="33.85%"></a> <a href="https://github.com/ThalesBMC/pali-mobile"><img align="top" alt="View the Pali Wallet code" src="./card-pali-link.svg" width="49%"></a>
+<a href="https://account.bitvavo.com/markets/BTC-EUR"><img align="top" alt="Bitvavo: crypto trading on mobile and web. €2B traded a month." src="./bitvavo-top.svg" width="49%"></a> <a href="https://github.com/ThalesBMC/pali-mobile"><img align="top" alt="Pali Wallet Mobile: open-source crypto wallet" src="./pali-top.svg" width="49%"></a><br><a href="https://account.bitvavo.com/markets/BTC-EUR"><img align="top" alt="Bitvavo web app" src="./bitvavo-web.svg" width="15.15%"></a><a href="https://apps.apple.com/nl/app/bitvavo-buy-bitcoin-btc/id1483903423?l=en-GB"><img align="top" alt="Bitvavo on the App Store" src="./bitvavo-appstore.svg" width="33.85%"></a> <a href="https://github.com/ThalesBMC/pali-mobile"><img align="top" alt="View the Pali Wallet code" src="./pali-link.svg" width="49%"></a>
 </p>
 <p align="center">
-  <a href="https://eidoo-wallet.io"><img alt="Eidoo DeFi Wallet: React Native crypto wallet with 200,000+ downloads" src="./card-eidoo.svg" width="49%"></a>
-  <a href="https://vibe-radio-drab.vercel.app"><img alt="Vibe Radio: live radio on a 3D globe, 75K+ views on Reddit" src="./card-vibe.svg" width="49%"></a>
+  <a href="https://eidoo-wallet.io"><img alt="Eidoo DeFi Wallet: React Native crypto wallet with 200,000+ downloads" src="./eidoo.svg" width="49%"></a>
+  <a href="https://vibe-radio-drab.vercel.app"><img alt="Vibe Radio: live radio on a 3D globe, 75K+ views on Reddit" src="./vibe.svg" width="49%"></a>
 </p>
 
 <br>
