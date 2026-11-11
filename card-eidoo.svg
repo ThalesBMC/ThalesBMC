@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="270" viewBox="0 0 440 270">
   <defs>
     <radialGradient id="glow" cx="100%" cy="0%" r="75%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity=".28"/><stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity=".3"/><stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="c"><rect x="1" y="1" width="438" height="268" rx="28"/></clipPath>
   </defs>
@@ -16,7 +16,7 @@
   </style>
   <g class="a" style="animation-delay:0.4s">
     <rect x="1" y="1" width="438" height="268" rx="28" fill="var(--card)" stroke="var(--line)"/>
-    <rect x="1" y="1" width="438" height="268" fill="url(#glow)" clip-path="url(#c)"><animate attributeName="opacity" values="0.15;1;0.15" dur="5s" begin="1.3s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" repeatCount="indefinite"/></rect>
+    <rect x="1" y="1" width="438" height="268" fill="url(#glow)" clip-path="url(#c)"><animate attributeName="opacity" values="1;0.6;1" dur="5s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/></rect>
     <text x="36" y="62" font-size="13" font-weight="600" letter-spacing="1.2" fill="#0891b2">REACT NATIVE · WALLET</text>
     <text x="36" y="104" font-size="30" font-weight="700" letter-spacing="-.8" fill="var(--fg)">Eidoo Wallet.</text>
     <text x="36" y="150" font-size="18" fill="var(--sub)">DeFi wallet built in React Native.</text><text x="36" y="176" font-size="18" fill="var(--sub)">200,000+ downloads.</text>
