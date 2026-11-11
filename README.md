@@ -1,152 +1,34 @@
-# Frontend Developer
+<p align="center">
+  <img alt="Thales Brederodes. Product engineer for crypto and trading." src="./banner.svg" width="100%">
+</p>
 
-Hey there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/thalesbmc/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:thalesbmc@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ThalesBMC?tab=repositories">Repositories</a>
+</p>
 
-I'm a frontend developer specializing in web and mobile apps, especially within the Web3 and crypto space.
-
-<table align= "center">
-  <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
-      </a>
-      <br>React Native
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./graphql.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    </br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
-      </a>
-      <br>Styled-components
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./tailwind.svg" width="65" height="50" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-   </tr>
-     <tr>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./sdk.svg" width="48" height="48" alt="Expo" />
-      </a>
-      <br>Expo
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./redux.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Redux
-    </td>
-    </br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./react-original.svg" width="48" height="48" alt="Context API" />
-      </a>
-      <br>Context API
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./wagmi_light.svg" width="48" height="48" alt="wagmi.svg" />
-      </a>
-      <br>Wagmi
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="./ethers.svg" width="65" height="50" alt="ethers" />
-      </a>
-      <br>Ethers.js
-    </td>
-   </tr>
-  </tr>
-  
-</table>
-</br>
-
-
-
-<!-- <table align= "center">
-<td align="center"  width="240" height="112.43">
-      <a href="#macropower-tech">
-        <img height="250px" width="200px" src="./casino.gif"/>
-      </a>
-       <br>Casino roulette Project   
-  
-</td>
-  
-</table>
--->
-
-
-
-
-<table align= "center">
-  <td align="center"  width="240" height="112.43">
-   <p  style="margin-top:12px">
-  📫 You can reach me:
-     </P
-  </br>
-  <a href="https://www.linkedin.com/in/thalesbmc/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80">
-  </br>
-  </br>
-  <a href="mailto:thalesbmc@gmail.com"><img src="./gmail.png" width="80"></a>
-
-</td>
-</table>
 <br>
 
-</br>
+<p align="center">
+  <img alt="About. Five years building crypto products. Today on the trading team at Bitvavo." src="./about.svg" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Selected work." src="./work.svg" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://account.bitvavo.com/markets/BTC-EUR"><img alt="Bitvavo: crypto trading on mobile and web" src="./card-bitvavo.svg" width="49%"></a>
+  <a href="https://github.com/ThalesBMC/pali-mobile"><img alt="Pali Wallet Mobile: open-source crypto wallet" src="./card-pali.svg" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://devpost.com/software/fluxus"><img alt="Fluxus Finance: NEAR-native yield optimizer" src="./card-fluxus.svg" width="49%"></a>
+  <a href="https://viberadio.live"><img alt="Vibe Radio: live radio on a 3D globe" src="./card-vibe.svg" width="49%"></a>
+</p>
+
 <br>
-<br>
 
-</br>
-
-
-
-
-
-
+<p align="center">
+  <img alt="Stack: React Native, TypeScript, Next.js, Node.js, Swift, Kotlin" src="./stack.svg" width="100%">
+</p>

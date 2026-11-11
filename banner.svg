@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0071e3"/><stop offset="55%" stop-color="#7c5cff"/><stop offset="100%" stop-color="#d946ef"/>
+  </linearGradient></defs>
+  <style>
+    :root { --fg:#1d1d1f; --sub:#6e6e73; --card:#f5f5f7; --line:rgba(0,0,0,.06); --link:#0066cc; --pill:#f5f5f7; }
+    @media (prefers-color-scheme: dark) {
+      :root { --fg:#f5f5f7; --sub:#a1a1a6; --card:#1c1c1e; --line:rgba(255,255,255,.08); --link:#2997ff; --pill:#1c1c1e; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .a { opacity:0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0; transform: translateY(12px); } to { opacity:1; transform: translateY(0); } }
+    
+  </style>
+  <g class="a" style="animation-delay:.05s"><text x="450" y="105" text-anchor="middle" font-size="64" font-weight="700" letter-spacing="-2" fill="var(--fg)">Thales Brederodes</text></g>
+  <g class="a" style="animation-delay:.35s"><text x="450" y="158" text-anchor="middle" font-size="30" font-weight="600" letter-spacing="-.6" fill="url(#g)">Product engineer for crypto and trading.</text></g>
+  <g class="a" style="animation-delay:.65s"><text x="450" y="200" text-anchor="middle" font-size="19" letter-spacing=".2" fill="var(--sub)">Amsterdam  ·  Mobile, web and backend</text></g>
+</svg>

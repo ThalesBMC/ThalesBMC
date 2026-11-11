@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170"><style>
+    :root { --fg:#1d1d1f; --sub:#6e6e73; --card:#f5f5f7; --line:rgba(0,0,0,.06); --link:#0066cc; --pill:#f5f5f7; }
+    @media (prefers-color-scheme: dark) {
+      :root { --fg:#f5f5f7; --sub:#a1a1a6; --card:#1c1c1e; --line:rgba(255,255,255,.08); --link:#2997ff; --pill:#1c1c1e; }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .a { opacity:0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity:0; transform: translateY(12px); } to { opacity:1; transform: translateY(0); } }
+    
+  </style>
+  <g class="a"><text x="450" y="70" text-anchor="middle" font-size="44" font-weight="700" letter-spacing="-1.2" fill="var(--fg)">Stack.</text></g><g class="a" style="animation-delay:0.15s"><rect x="75.0" y="104" width="155" height="44" rx="22" fill="var(--pill)" stroke="var(--line)"/>
+    <text x="152.5" y="132" text-anchor="middle" font-size="17" font-weight="500" fill="var(--fg)">React Native</text></g><g class="a" style="animation-delay:0.22s"><rect x="242.0" y="104" width="136" height="44" rx="22" fill="var(--pill)" stroke="var(--line)"/>
+    <text x="310.0" y="132" text-anchor="middle" font-size="17" font-weight="500" fill="var(--fg)">TypeScript</text></g><g class="a" style="animation-delay:0.29s"><rect x="390.0" y="104" width="107" height="44" rx="22" fill="var(--pill)" stroke="var(--line)"/>
+    <text x="443.5" y="132" text-anchor="middle" font-size="17" font-weight="500" fill="var(--fg)">Next.js</text></g><g class="a" style="animation-delay:0.36s"><rect x="509.0" y="104" width="107" height="44" rx="22" fill="var(--pill)" stroke="var(--line)"/>
+    <text x="562.5" y="132" text-anchor="middle" font-size="17" font-weight="500" fill="var(--fg)">Node.js</text></g><g class="a" style="animation-delay:0.43s"><rect x="628.0" y="104" width="88" height="44" rx="22" fill="var(--pill)" stroke="var(--line)"/>
+    <text x="672.0" y="132" text-anchor="middle" font-size="17" font-weight="500" fill="var(--fg)">Swift</text></g><g class="a" style="animation-delay:0.50s"><rect x="728.0" y="104" width="97" height="44" rx="22" fill="var(--pill)" stroke="var(--line)"/>
+    <text x="776.5" y="132" text-anchor="middle" font-size="17" font-weight="500" fill="var(--fg)">Kotlin</text></g></svg>
